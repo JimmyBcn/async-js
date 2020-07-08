@@ -1,0 +1,21 @@
+{
+  "name": "js-async",
+  "version": "1.0.0",
+  "description": "callback vs promises vs async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "js",
+    "async",
+    "callback",
+    "promise"
+  ],
+  "author": "jaume vinyes",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
